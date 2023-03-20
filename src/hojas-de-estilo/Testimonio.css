@@ -36,3 +36,7 @@ width: auto;
     font-size: 1.1rem;
     text-align: justify;
 }
+
+h1 {
+    text-align: center;
+}
